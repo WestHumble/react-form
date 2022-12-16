@@ -1,1 +1,5 @@
-Prosty formularz logowania
+Prosty formularz rejestracji
+
+Użyte technologie:
+- React
+- Regex
